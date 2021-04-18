@@ -12,6 +12,8 @@ The purpose of the website of the website is to provide a list of CBD products t
 
 The functionality of the website utilizes [Google] Maps and allows the user to locate where the products near them could be "potentailly," located. 
 
-# Oraganization
+# Organization
 
 The organization of the website includes a main page with the map feature and three additional webpages access through a horizontal navigation bar. 
+
+It originally had a functioning Google Maps API integrated on the landing page that allowed for the user to drop a pin at their location but I have not since succeded in doing so. 
